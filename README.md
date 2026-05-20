@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://facebook.com/profile.php?id=100009128437340">
-<img src="https://skillicons.dev/icons?i=facebook" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50" height="50"/>
 </a>
 </p>
 
