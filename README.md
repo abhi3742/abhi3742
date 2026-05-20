@@ -32,8 +32,6 @@
 
 <img src="https://skillicons.dev/icons?i=javascript,html,css,firebase,mongodb,git,github" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachecordova/apachecordova-original.svg" width="48" height="48"/>
-
 <img src="https://cdn.simpleicons.org/framework7/EE350F" width="48" height="48"/>
 
 </p>
