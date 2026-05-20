@@ -20,7 +20,9 @@
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
-
+<a href="https://facebook.com/profile.php?id=100009128437340">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
 ---
 
 ## 🚀 Languages and Tools
