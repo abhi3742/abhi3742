@@ -30,7 +30,12 @@
 ## 🚀 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,mongodb,linux,flutter,git,github" />
+<img src="https://skillicons.dev/icons?i=javascript,html,css,firebase,mongodb,git,github" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachecordova/apachecordova-original.svg" width="48" height="48"/>
+
+<img src="https://framework7.io/i/favicon.png" width="48" height="48"/>
+
 </p>
 
 ---
