@@ -30,7 +30,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=javascript,html,css,firebase,mongodb,git,github" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,firebase,mongodb,git,github" />
 
 <img src="https://cdn.simpleicons.org/framework7/EE350F" width="48" height="48"/>
 
