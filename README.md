@@ -1,36 +1,22 @@
-## Hi there 👋,I'm Abhishek Ranjan(Abhi3742)
-
-##I am a Full Stack Web Developer and I am passionate about delivering visually appealing and user-friendly interfaces while staying up-to-date with the latest technologies. My diverse skill set enables me to develop high-quality and innovative web solutions.
-
-- 🔭 I’m currently working on building my own personalised 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<h1 align="center">Hi 👋, I'm Abhishek Ranjan</h1>
-<h3 align="center">Full Stack Developer | Cloud Security Learner | Entrepreneur</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Ranjan(Abhi3742)</h1>
+<h3 align="center">Full Stack Developer| high-quality and innovative web solutions | up-to-date with the latest technologies |</h3>
 
 ---
 
-- 🌱 I’m currently learning **Python & Cloud Security**
-- 💬 Ask me about **Flutter, Web Development, Linux**
-- 📫 Reach me at: **yourmail@gmail.com**
+- 🌱 I’m currently learning **Next**
+- 💬 Ask me about **Web Development**
+- 📫 Reach me at: **abhishekranjan3742@gmail.com**
 
 ---
 
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/abhishek-ranjan-106ab9395">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://instagram.com/yourprofile">
+<a href="https://instagram.com/abhishek_ranjan3742">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
